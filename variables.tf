@@ -5,12 +5,12 @@
 
 variable "location" {
     type = string
-    default = "uksouth"
+    default = "centralus"
 }
 
 variable "naming_prefix" {
   type    = string
-  default = "techielassgha"
+  default = "bneeruga"
 }
 
 variable "tag_environment" {
@@ -20,7 +20,7 @@ variable "tag_environment" {
 
 variable "tag_owner" {
   type    = string
-  default = "sarah"
+  default = "bneeruga"
 }
 
 
