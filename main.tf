@@ -1,4 +1,4 @@
-```terraform
+
 ## 
 # Local variables
 ##
@@ -63,5 +63,3 @@ resource "azurerm_subnet" "techielasssubnet" {
   address_prefixes     = ["10.0.0.0/24"]
 }
 
-
-```

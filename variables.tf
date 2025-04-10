@@ -1,4 +1,4 @@
-```terraform
+
 ## 
 # Variables
 ##
@@ -23,4 +23,4 @@ variable "tag_owner" {
   default = "sarah"
 }
 
-```
+
